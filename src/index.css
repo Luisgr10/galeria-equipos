@@ -1,0 +1,14 @@
+:root {
+  --color-dark: #00041a;
+  --color-blue: #0084ff;
+  --color-yellow: #ffb718;
+  --color-white: #ffffff;
+}
+
+body {
+  background-color: var(--color-white); 
+  font-family: sans-serif;
+  color: var(--color-dark); 
+  margin: 0;
+  padding: 0;
+}
