@@ -4,5 +4,10 @@
     "linkedin": "tu-linkedin",
     "github": "tu-github",
     "descripcion": "Soy la persona que te guiará en este taller."
+  }, {
+    "nombre": "Estudiante del Curso",
+    "linkedin": "linkedin-del-estudiante",
+    "github": "github-del-estudiante",
+    "descripcion": "Soy un estudiante entusiasta aprendiendo nuevas habilidades."
   }
 ]
