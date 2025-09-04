@@ -10,5 +10,10 @@
     "linkedin": "mi-linkedin",
     "github": "mi-github",
     "descripcion": "Soy un estudiante al que le gusta programar"
+  }, {
+    "nombre": "Estudiante del Curso",
+    "linkedin": "linkedin-del-estudiante",
+    "github": "github-del-estudiante",
+    "descripcion": "Soy un estudiante entusiasta aprendiendo nuevas habilidades."
   }
 ]
