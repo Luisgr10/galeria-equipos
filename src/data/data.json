@@ -4,5 +4,11 @@
     "linkedin": "tu-linkedin",
     "github": "tu-github",
     "descripcion": "Soy la persona que te guiará en este taller."
+  },
+  {
+    "nombre": "Alberto",
+    "linkedin": "mi-linkedin",
+    "github": "mi-github",
+    "descripcion": "Soy un estudiante al que le gusta programar"
   }
 ]
